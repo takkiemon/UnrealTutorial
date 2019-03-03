@@ -1,0 +1,3 @@
+C:\Users\takki\Documents\UnrealTutorial\Tutorial\Source\Tutorial\Tutorial.Build.cs
+C:\Users\takki\Documents\UnrealTutorial\Tutorial\Source\Tutorial.Target.cs
+C:\Users\takki\Documents\UnrealTutorial\Tutorial\Source\TutorialEditor.Target.cs

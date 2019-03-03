@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Tutorial.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{550744C4-F8BC-436B-AE17-3FC0EFD7431C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Tutorial.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TutorialEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{86C9D7E8-D186-443F-9EBD-02C47E321EAA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Tutorial">
+      <UniqueIdentifier>{17588748-B983-4292-B9AB-EEAC941F0909}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Tutorial\Tutorial.Build.cs">
+      <Filter>Source\Tutorial</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Tutorial\Tutorial.cpp">
+      <Filter>Source\Tutorial</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tutorial\Tutorial.h">
+      <Filter>Source\Tutorial</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Tutorial\TutorialGameModeBase.cpp">
+      <Filter>Source\Tutorial</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Tutorial\TutorialGameModeBase.h">
+      <Filter>Source\Tutorial</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

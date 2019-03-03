@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Tutorial.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\takki\Documents\UnrealTutorial\Tutorial\Intermediate\Build\Win64\TutorialEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\takki\Documents\UnrealTutorial\Tutorial\Intermediate\Build\Win64\UE4Editor\Development\Tutorial\Tutorial.cpp.obj"
+"C:\Users\takki\Documents\UnrealTutorial\Tutorial\Intermediate\Build\Win64\UE4Editor\Development\Tutorial\TutorialGameModeBase.cpp.obj"
+"C:\Users\takki\Documents\UnrealTutorial\Tutorial\Intermediate\Build\Win64\UE4Editor\Development\Tutorial\Tutorial.init.gen.cpp.obj"
+"C:\Users\takki\Documents\UnrealTutorial\Tutorial\Intermediate\Build\Win64\UE4Editor\Development\Tutorial\TutorialGameModeBase.gen.cpp.obj"
+"C:\Users\takki\Documents\UnrealTutorial\Tutorial\Intermediate\Build\Win64\UE4Editor\Development\Tutorial\PCLaunch.rc.res"
+/OUT:"C:\Users\takki\Documents\UnrealTutorial\Tutorial\Intermediate\Build\Win64\UE4Editor\Development\Tutorial\UE4Editor-Tutorial.lib"
