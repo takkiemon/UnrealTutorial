@@ -42,4 +42,14 @@
       <Filter>Source\Tutorial</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Tutorial\MyActor.h">
+      <Filter>Source\Tutorial</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Tutorial\MyActor.cpp">
+      <Filter>Source\Tutorial</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
